@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Bem vindo!
 
-You can use the [editor on GitHub](https://github.com/gustavopinto/collaborative-events/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este e' o site do projeto "Compreendendo o Papel dos Eventos Colaborativos de Curta Duracao na Economia Digital". O projeto e' apoiado pelo CNPq, Edital 01/2019. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Metas
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Consolidar o Programa de Pos-Graduacao em Ciencia da Computacao da UFPA. Mais objetivamente:
 
-```markdown
-Syntax highlighted code block
+- Formar 3 doutores em ciencia da computacao no PPGCC
+- xxx
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Pesquisadores Envolvidos
 
-1. Numbered
-2. List
+- Cleidson de Souza (professor UFPA)
+- Antonio Jorge Abelem (professor UFPA)
+- Gustavo Pinto (professor UFPA)
+- Filipe Saraiva (professor UFPA)
+- Sandro Bezerra (professor UFPA)
+- Leticia dos Santos (posdoc UFPA)
+- Albert Richard (doutorando UFPA)
+- Wendy Gomes (mestranda UFPA)
+- Carina Alves (professora UFPE)
+- Kiev Gama (professor UFPE)
+- Fernando Castor (professor UFPE)
 
-**Bold** and _Italic_ and `Code` text
+## Workshops
 
-[Link](url) and ![Image](src)
-```
+O primeiro workshop do projeto aconteceu (em formato virtual) no dia 05/03/2021. A agenda do workshop esta' abaixo.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gustavopinto/collaborative-events/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
