@@ -1,6 +1,6 @@
 ## Bem vindo!
 
-Este é o site do projeto "Compreendendo o Papel dos Eventos Colaborativos de Curta Duracao na Economia Digital". O projeto e' apoiado pelo CNPq, Edital 01/2019. 
+Este é o site do projeto "Compreendendo o Papel dos Eventos Colaborativos de Curta Duracao na Economia Digital". O projeto é apoiado pelo CNPq, Edital 01/2019. 
 
 
 ## Metas
@@ -23,7 +23,7 @@ A principal meta desse projeto colaborativo é a consolidação do Programa de P
 
 ## Workshops
 
-O primeiro workshop do projeto irá acontecer (em formato virtual) no dia 05/03/2021. A agenda do workshop está abaixo.
+O primeiro workshop do projeto irá acontecer (em formato virtual) no dia 05/03/2021. A agenda do workshop está abaixo (passível de modificações).
 
 | # | Apresentação                                     | Horário           | Responsável         |
 |---|--------------------------------------------------|-------------------|---------------------|
@@ -38,3 +38,7 @@ O primeiro workshop do projeto irá acontecer (em formato virtual) no dia 05/03/
 | 8 | Encerramento                                     | 11:45 -- 12:00    | Gustavo & Cleidson  |
 
 As apresentações tem duração de 10 minutos: 5 minutos para apresentação e 5 para comentários.
+
+## Publicações
+
+- Rafa Prado, Wendy Mendes, Kiev Santos da Gama, Gustavo Pinto: How Trans-Inclusive Are Hackathons? IEEE Softw. 38(2): 26-31 (2021)
