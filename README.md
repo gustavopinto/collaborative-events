@@ -9,6 +9,8 @@ A principal meta desse projeto colaborativo é a consolidação do Programa de P
 
 ## Pesquisadores Envolvidos
 
+Grupo da UFPA
+
 - Cleidson de Souza (professor UFPA)
 - Antonio Jorge Abelem (professor UFPA)
 - Gustavo Pinto (professor UFPA)
@@ -17,9 +19,13 @@ A principal meta desse projeto colaborativo é a consolidação do Programa de P
 - Leticia dos Santos (posdoc UFPA)
 - Albert Richard (doutorando UFPA)
 - Wendy Gomes (mestranda UFPA)
+
+Grupo da UFPE
+
 - Carina Alves (professora UFPE)
 - Kiev Gama (professor UFPE)
 - Fernando Castor (professor UFPE)
+- Geraldo Pereira (graduando UFPE)
 
 ## Workshops
 
@@ -30,7 +36,7 @@ O primeiro workshop do projeto irá acontecer (em formato virtual) no dia 05/03/
 | 1 | Abertura (revisitando objetivos do projeto)      | 10:00 -- 10:15    | Gustavo & Cleidson  |
 | 2 | Apresentação 1                                   | 10:15 -- 10:25    | Wendy Mendes        |
 | 3 | Apresentação 2                                   | 10:25 -- 10:35    | Albert Richard      |
-| 4 | Apresentação 3                                   | 10:35 -- 10:45    | A definir           |
+| 4 | Apresentação 3                                   | 10:35 -- 10:45    | Geraldo Pereira     |
 | 5 | Apresentação 5                                   | 10:45 -- 10:55    | A definir           |
 | 6 | Apresentação 6                                   | 10:55 -- 11:05    | A definir           |
 | 7 | Apresentação 7                                   | 11:05 -- 11:15    | A definir           |
