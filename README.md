@@ -5,7 +5,7 @@ Este é o site do projeto "Compreendendo o Papel dos Eventos Colaborativos de Cu
 
 ## Metas
 
-A principal meta desse projeto colaborativo é a consolidação do Programa de Pos-Graduacao em Ciencia da Computacao da UFPA. 
+A principal meta desse projeto colaborativo é a consolidação do Programa de Pos-Graduação em Ciência da Computação (PPGCC) da UFPA, por meio da formação de mestre e doutores, além da publicação de artigos científicos em revistas e conferências especializadas de rigoroso processo de seleção.
 
 ## Pesquisadores Envolvidos
 
