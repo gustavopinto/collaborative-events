@@ -33,15 +33,14 @@ O primeiro workshop do projeto irá acontecer (em formato virtual) no dia 05/03/
 
 | # | Apresentação                                            | Horário           | Responsável         |
 |---|---------------------------------------------------------|-------------------|---------------------|
-| 1 | Abertura (revisitando objetivos do projeto)             | 10:00 -- 10:15    | Gustavo & Cleidson  |
-| 2 | Hackathon online: entendendo como as equipes colaboram  | 10:15 -- 10:25    | Wendy Mendes        |
-| 3 | Hackathon e educação STEM no contexto da indústria 4.0  | 10:25 -- 10:35    | Albert Richard      |
-| 4 | Um estudo sobre propriedade intelectual em hackathons   | 10:35 -- 10:45    | Geraldo Pereira     |
-| 5 | Apresentação 5                                   | 10:45 -- 10:55    | Luciana Almeida     |
-| 6 | Apresentação 6                                   | 10:55 -- 11:05    | André Miranda       |
-| 7 | Apresentação 7                                   | 11:05 -- 11:15    | A definir           |
-| 8 | Próximos Passos                                  | 11:15 -- 11:45    | Todos               |
-| 8 | Encerramento                                     | 11:45 -- 12:00    | Gustavo & Cleidson  |
+| 1 | Abertura (revisitando objetivos do projeto)             | 10:20 -- 10:30    | Gustavo & Cleidson  |
+| 2 | Hackathon online: entendendo como as equipes colaboram  | 10:30 -- 10:40    | Wendy Mendes        |
+| 3 | Hackathon e educação STEM no contexto da indústria 4.0  | 10:40 -- 10:50    | Albert Richard      |
+| 4 | Um estudo sobre propriedade intelectual em hackathons   | 10:50 -- 11:00    | Geraldo Pereira     |
+| 5 | Apresentação 4                                          | 11:00 -- 11:10    | Luciana Almeida     |
+| 6 | Apresentação 5                                          | 11:10 -- 11:20    | André Miranda       |
+| 8 | Próximos Passos                                         | 11:20 -- 11:50    | Todos               |
+| 8 | Encerramento                                            | 11:50 -- 12:00    | Gustavo & Cleidson  |
 
 As apresentações tem duração de 10 minutos: 5 minutos para apresentação e 5 para comentários.
 
