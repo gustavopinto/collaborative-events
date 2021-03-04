@@ -31,12 +31,12 @@ Grupo da UFPE
 
 O primeiro workshop do projeto irá acontecer (em formato virtual) no dia 05/03/2021. A agenda do workshop está abaixo (passível de modificações).
 
-| # | Apresentação                                     | Horário           | Responsável         |
-|---|--------------------------------------------------|-------------------|---------------------|
-| 1 | Abertura (revisitando objetivos do projeto)      | 10:00 -- 10:15    | Gustavo & Cleidson  |
-| 2 | Apresentação 1                                   | 10:15 -- 10:25    | Wendy Mendes        |
-| 3 | Apresentação 2                                   | 10:25 -- 10:35    | Albert Richard      |
-| 4 | Apresentação 3                                   | 10:35 -- 10:45    | Geraldo Pereira     |
+| # | Apresentação                                            | Horário           | Responsável         |
+|---|---------------------------------------------------------|-------------------|---------------------|
+| 1 | Abertura (revisitando objetivos do projeto)             | 10:00 -- 10:15    | Gustavo & Cleidson  |
+| 2 | Hackathon online: entendendo como as equipes colaboram  | 10:15 -- 10:25    | Wendy Mendes        |
+| 3 | Hackathon e educação STEM no contexto da indústria 4.0  | 10:25 -- 10:35    | Albert Richard      |
+| 4 | Um estudo sobre propriedade intelectual em hackathons   | 10:35 -- 10:45    | Geraldo Pereira     |
 | 5 | Apresentação 5                                   | 10:45 -- 10:55    | Luciana Almeida     |
 | 6 | Apresentação 6                                   | 10:55 -- 11:05    | André Miranda       |
 | 7 | Apresentação 7                                   | 11:05 -- 11:15    | A definir           |
