@@ -18,6 +18,8 @@ Grupo da UFPA
 - Sandro Bezerra (professor UFPA)
 - Leticia dos Santos (posdoc UFPA)
 - Albert Richard (doutorando UFPA)
+- Luciana Almeida (doutoranda UFPA)
+- André Miranda (mestrando UFPA)
 - Wendy Gomes (mestranda UFPA)
 
 Grupo da UFPE
@@ -37,8 +39,8 @@ O primeiro workshop do projeto irá acontecer (em formato virtual) no dia 05/03/
 | 2 | Hackathon online: entendendo como as equipes colaboram  | 10:30 -- 10:40    | Wendy Mendes        |
 | 3 | Hackathon e educação STEM no contexto da indústria 4.0  | 10:40 -- 10:50    | Albert Richard      |
 | 4 | Um estudo sobre propriedade intelectual em hackathons   | 10:50 -- 11:00    | Geraldo Pereira     |
-| 5 | Apresentação 4                                          | 11:00 -- 11:10    | Luciana Almeida     |
-| 6 | Apresentação 5                                          | 11:10 -- 11:20    | André Miranda       |
+| 5 | O que Acontece após um Hackathon? Um Estudo Empírico    | 11:00 -- 11:10    | André Miranda       |
+| 6 | Estudando o primeiro Startup Weekend Online             | 11:10 -- 11:20    | Luciana Almeida     |
 | 8 | Próximos Passos                                         | 11:20 -- 11:50    | Todos               |
 | 8 | Encerramento                                            | 11:50 -- 12:00    | Gustavo & Cleidson  |
 
