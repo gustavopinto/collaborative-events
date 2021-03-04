@@ -33,7 +33,7 @@ O primeiro workshop do projeto irá acontecer (em formato virtual) no dia 05/03/
 
 | # | Apresentação                                            | Horário           | Responsável         |
 |---|---------------------------------------------------------|-------------------|---------------------|
-| 1 | Abertura (revisitando objetivos do projeto)             | 10:20 -- 10:30    | Gustavo & Cleidson  |
+| 1 | Abertura (revisitando objetivos do projeto)             | 10:15 -- 10:30    | Gustavo & Cleidson  |
 | 2 | Hackathon online: entendendo como as equipes colaboram  | 10:30 -- 10:40    | Wendy Mendes        |
 | 3 | Hackathon e educação STEM no contexto da indústria 4.0  | 10:40 -- 10:50    | Albert Richard      |
 | 4 | Um estudo sobre propriedade intelectual em hackathons   | 10:50 -- 11:00    | Geraldo Pereira     |
