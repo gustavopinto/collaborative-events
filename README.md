@@ -41,7 +41,7 @@ O primeiro workshop do projeto irá acontecer (em formato virtual) no dia 05/03/
 | 4 | Um estudo sobre propriedade intelectual em hackathons   | 10:50 -- 11:00    | Geraldo Pereira     |
 | 5 | O que Acontece após um Hackathon? Um Estudo Empírico    | 11:00 -- 11:10    | André Miranda       |
 | 6 | Estudando o primeiro Startup Weekend Online             | 11:10 -- 11:20    | Luciana Almeida     |
-| 8 | Próximos Passos                                         | 11:20 -- 11:50    | Todos               |
+| 7 | Próximos Passos                                         | 11:20 -- 11:50    | Todos               |
 | 8 | Encerramento                                            | 11:50 -- 12:00    | Gustavo & Cleidson  |
 
 As apresentações tem duração de 10 minutos: 5 minutos para apresentação e 5 para comentários.
